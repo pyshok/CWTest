@@ -1,0 +1,13 @@
+D:\CWTest\bin\Debug\netcoreapp3.1\CWTest.exe
+D:\CWTest\bin\Debug\netcoreapp3.1\CWTest.deps.json
+D:\CWTest\bin\Debug\netcoreapp3.1\CWTest.runtimeconfig.json
+D:\CWTest\bin\Debug\netcoreapp3.1\CWTest.runtimeconfig.dev.json
+D:\CWTest\bin\Debug\netcoreapp3.1\CWTest.dll
+D:\CWTest\bin\Debug\netcoreapp3.1\CWTest.pdb
+D:\CWTest\obj\Debug\netcoreapp3.1\CWTest.csprojAssemblyReference.cache
+D:\CWTest\obj\Debug\netcoreapp3.1\CWTest.AssemblyInfoInputs.cache
+D:\CWTest\obj\Debug\netcoreapp3.1\CWTest.AssemblyInfo.cs
+D:\CWTest\obj\Debug\netcoreapp3.1\CWTest.csproj.CoreCompileInputs.cache
+D:\CWTest\obj\Debug\netcoreapp3.1\CWTest.dll
+D:\CWTest\obj\Debug\netcoreapp3.1\CWTest.pdb
+D:\CWTest\obj\Debug\netcoreapp3.1\CWTest.genruntimeconfig.cache
